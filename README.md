@@ -4,7 +4,13 @@
 
 | Skill |  Est. Time  | Learning Phase |
 |:-----|:--------:|------:|
-| L0   | **bold** | $1600 |
-| L1   |  `code`  |   $12 |
-| L2   | _italic_ |    $1 |
+| Programming (Python)   | 1-2 months | Beginner |
+| Version Control (Git)   |  1-2 weeks  | Beginner |
+| Data Structures & Algorithms   | 1-2 months | Beginner |
+| Mathematics and Statistics   | 2-3 months | Beginner |
+| Data Handling and Processing   |  1-2 months  | Intermediate |
+| Machine Learning Fundamentals   | 3-4 months | Intermediate |
+| Advanced Machine Learning Concepts   | 2-3 months | Advanced |
+| Model Deployment   |  1-2 months  | Advanced |
+
 
