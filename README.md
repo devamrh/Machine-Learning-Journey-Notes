@@ -12,6 +12,6 @@
 | Machine Learning Fundamentals   | 3-4 months | Intermediate |
 | Advanced Machine Learning Concepts   | 2-3 months | Advanced |
 | Model Deployment   |  1-2 months  | Advanced |
-| Total   |  12-20 months  |  |
+| Total   |  12-21 months  |  |
 
 
