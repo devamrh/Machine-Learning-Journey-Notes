@@ -15,3 +15,12 @@
 | Total   |  12-21 months  |  |
 
 
+# Notes:
+
+## Day 01 :
+Q: What is machine learning?
+A: Machine learning is a sector which works with machines with the goal to make them intellegent to work on their own and collect-analyze data in order to get a respective outcome.
+
+Q: What is AGI?
+A: AGI or Artificial General Intelligence is a dream of making machines as intelligent as humans or other intelligent lives.
+
